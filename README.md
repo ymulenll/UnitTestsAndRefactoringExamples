@@ -2,4 +2,4 @@
 
 Examples used in my training about Unit Tests and Refactoring.
 
-And other interesting proove of concepts not touched in the training.
+And other interesting proove of concepts that were not touched in the presentation.
