@@ -1,4 +1,4 @@
-# UnitTestsAndRefactoringExamples
+# Unit Tests and Refactoring examples.
 
 Examples used in the my training about Unit Tests and Refactoring.
 
